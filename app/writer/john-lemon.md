@@ -5,3 +5,6 @@
 Recipe Picks:
 
 - January: [Homemade Sausages](../recipe/jan/homemade-sausages.md)
+
+
+<img src='https://www.allrecipes.com/recipe/18241/candied-carrots/' height='100 width='100'/>
